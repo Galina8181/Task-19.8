@@ -1,0 +1,141 @@
+{
+  "id": "c81890fd-8569-4027-b271-b48d06bbe8c0",
+  "version": "2.0",
+  "name": "skillfactory",
+  "url": "https://skillfactory.ru",
+  "tests": [{
+    "id": "6e2e88e6-8207-4c43-912e-38c3d438848c",
+    "name": "Untitled",
+    "commands": [{
+      "id": "80361d8f-0d35-40ba-b01b-b9ab9a11636e",
+      "comment": "",
+      "command": "open",
+      "target": "/courses/?roistat=google10_g_96053549756_475873360440_%2Bskillfactory&roistat_referrer=&roistat_pos=&utm_source=google&utm_medium=cpc&utm_campaign=sf_brand_google_site_poisk_reg&utm_content=96053549756_475873360440&utm_term=%2Bskillfactory|kwd-357025775414||{match_type}||g_|1011962|c&gclid=Cj0KCQiA7NKBBhDBARIsAHbXCB7-W1bedjUqJl9014PnpDVAWq7CwR6kn9MBLPDhzv1GMptU3Hjg27gaArOTEALw_wcB",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "6efc4fd7-a68a-474f-846b-d922d74ca5a1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1905x597",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "483962cb-3b3c-41a3-a4ab-18c496001b11",
+      "comment": "",
+      "command": "click",
+      "target": "css=.t397__tab:nth-child(5) > .t397__title",
+      "targets": [
+        ["css=.t397__tab:nth-child(5) > .t397__title", "css:finder"],
+        ["xpath=//div[@id='rec224630311']/div/div/div/div/div[5]/div", "xpath:idRelative"],
+        ["xpath=//div/div/div/div[5]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "29d637d4-821b-4360-b0ca-3a9580e14d7c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=QA-инженер на Java",
+      "targets": [
+        ["linkText=QA-инженер на Java", "linkText"],
+        ["css=.tn-elem__2303346991564107057239 > .tn-atom", "css:finder"],
+        ["xpath=//a[contains(text(),'QA-инженер на Java')]", "xpath:link"],
+        ["xpath=//div[@id='rec230334699']/div/div/div[11]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://skillfactory.ru/java-qa-engineer')])[4]", "xpath:href"],
+        ["xpath=//div[19]/div/div/div[11]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'QA-инженер на Java')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4f2e4aa-c2c4-4387-ac67-0d23d8cf7623",
+      "comment": "",
+      "command": "click",
+      "target": "css=#rec250376990 .t396__filter",
+      "targets": [
+        ["css=#rec250376990 .t396__filter", "css:finder"],
+        ["xpath=//div[@id='rec250376990']/div/div/div[2]", "xpath:idRelative"],
+        ["xpath=//div[29]/div/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "82cf56ab-33e1-4138-ae6c-2dbc9feb6ad5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#rec250376990 .t396__filter",
+      "targets": [
+        ["css=#rec250376990 .t396__filter", "css:finder"],
+        ["xpath=//div[@id='rec250376990']/div/div/div[2]", "xpath:idRelative"],
+        ["xpath=//div[29]/div/div/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "f4dda15f-ba43-4f70-b0ea-61db5f891754",
+    "name": "задание 19,8",
+    "commands": [{
+      "id": "b06b7486-67ce-4ed2-8949-9fcf0b859a87",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dca533cf-d89d-4964-babc-0723203dbcf3",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1936x1056",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "068cea79-1fca-401e-9e40-1d99d96555a0",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Программы",
+      "targets": [
+        ["linkText=Программы", "linkText"],
+        ["css=.tn-elem__1292127741568973828471 > .tn-atom", "css:finder"],
+        ["xpath=(//a[contains(text(),'Программы')])[2]", "xpath:link"],
+        ["xpath=//div[@id='rec129212774']/div/div/div[25]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/courses/')])[4]", "xpath:href"],
+        ["xpath=//div[25]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b6af2633-c34e-4259-a72c-3a50ae636e97",
+      "comment": "",
+      "command": "click",
+      "target": "css=.t397__tab:nth-child(5) > .t397__title",
+      "targets": [
+        ["css=.t397__tab:nth-child(5) > .t397__title", "css:finder"],
+        ["xpath=//div[@id='rec224630311']/div/div/div/div/div[5]/div", "xpath:idRelative"],
+        ["xpath=//div/div/div/div[5]/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b708483e-e028-408a-a4bf-b078d59b5215",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=QA-инженер на Java",
+      "targets": [
+        ["linkText=QA-инженер на Java", "linkText"],
+        ["css=.tn-elem__2303346991564107057239 > .tn-atom", "css:finder"],
+        ["xpath=//a[contains(text(),'QA-инженер на Java')]", "xpath:link"],
+        ["xpath=//div[@id='rec230334699']/div/div/div[11]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://skillfactory.ru/java-qa-engineer')])[4]", "xpath:href"],
+        ["xpath=//div[19]/div/div/div[11]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'QA-инженер на Java')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "4d7c73dc-6e27-45a9-8fd4-94158e41c057",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["6e2e88e6-8207-4c43-912e-38c3d438848c"]
+  }],
+  "urls": ["https://skillfactory.ru/"],
+  "plugins": []
+}
